@@ -1,0 +1,255 @@
+span.flex - grow - 1. dots {
+    text - align: center;
+}.dots {
+    white - space: normal!important;
+}
+span.btn.fr.fa.fa - eye {
+    transform: matrix(1, 0, 0, 1, -40, -3);
+}
+div #l1 input #u1, div #l3 button {
+    width: 98 % !important;margin - left: 3 px
+}
+div #l2 button, div #l3 button {
+    margin - left: 3 px;
+    border: 1 px solid #ccc!important;
+    border - radius: 2 px!important;
+    height: 27 px!important;
+    padding: 0 5 px
+}
+div #l1 input #u1 {
+    height: 25 px!important;border - radius: 2 px;border: 1 px solid #e1e0e0;margin - top: 3 px!important;text - align: center
+}
+div #l2 input #pass1, div #l2 input #u2, div #l3 input #pass2, div #l3 input #u3 {
+    height: 23 px!important;width: 49 % !important;padding: 0!important;float: right;margin: 2 px 5 px 2 px 0
+}
+div #l2 input #u2, div #l3 input #u3 {
+    margin - left: -6 px;
+    border - radius: 15 px;
+    border: 1 px solid #e1e0e0;
+    text - align: center
+}
+div #l2 input #pass1, div #l3 input #pass2 {
+    border - radius: 15 px;
+    border: 1 px solid #e1e0e0;
+    text - align: center
+}
+div #l2, div #l3 {
+    padding: 4 px!important
+}
+div #l1 {
+    margin: 0 1 px - 18 px;padding: 4 px!important;
+}
+div #l1, div #l2, div #l3 {
+    border - bottom: 2 px solid;
+    margin - bottom: 2 px;
+    border - top: 2 px solid;
+    margin - top: 2 px;
+    border - color: #bababa;
+    border - radius: 15 px;
+    height: 69 px
+}
+div #l1 button {
+    border: 1 px solid #ccc!important;border - radius: 2 px!important;width: 98 % ;height: 27 px;margin - left: 3 px;padding: 0 5 px
+}
+div #l2 button {
+    width: 70 %
+}
+ul.nav.nav - tabs > li > a {
+    border: none;text - align: center;border - radius: 3 px;display: initial;width: 80 % ;float: left;padding: 0!important
+}
+ul.nav.nav - tabs > li.active > a {
+    border: none;border - radius: 3 px
+}
+ul.nav.nav - tabs > li {
+    width: 32 % ;margin: 0 5 px 0 0
+}
+ul.nav.nav - tabs > li > .fa - user - plus: before, ul.nav.nav - tabs > li > .fa - user: before, ul.nav.nav - tabs > li > .fa - user: before {
+        float: right;margin - right: -26 % ;padding: 0 2 px 1 px;border - radius: 3 px;width: 23 px;text - align: center
+    }.nav > li > a: focus, .nav > li > a: hover {
+        color: #9abff9} ul.nav.nav-tabs{margin-top:2px;float:right;width:100%;padding:3px 1px} div# tlogins::-webkit - scrollbar {
+            width: 0 px;height: 10 px
+        }
+        div #tlogins.fl.mini.u - msg {
+            margin - top: 3 px!important;
+            border - radius: 3 px!important
+        }
+        a.label.label - primary.fl img.fl,
+        button.btn.fr.btn - success.fa.fa - refresh,
+        div #l2 br,
+        div #l3 br {
+            display: none
+        }
+        a.label.label - primary.fl {
+            border - radius: 3 px!important;
+            margin: 2 px - 155 px;
+            padding: 2 px!important;
+            margin - bottom: 2 px;
+            text - align: right!important;
+        }
+        button.btn.fr.btn - success.fa.fa - refresh {
+            display: none
+        }
+        a.label.label - primary.fl img.fl {
+            display: none
+        }
+        #des22 {
+            text - align: center!important;
+            font - size: 100 % !important
+        }.fr.borderg,
+        .fr.borderg a {
+            font - size: 10 px!important;
+            padding: 0 5 px!important;
+            position: relative;
+            color: #ffffff
+        }.fr.borderg {
+            border: 0;margin - top: 0;height: 0
+        }
+        label.label.label - primary.mini.fl {
+            padding: 1 px;border - radius: 3 px!important
+        }
+        a.label.bg.d - flex.fl {
+            border - radius: 3 px!important;
+            margin: 1 px 2 px;
+            padding: 0 px!important;
+            margin - bottom: 2 px;
+            text - align: right!important;
+            width: ;
+        }
+        ul.nav.nav - tabs {
+            margin - top: 2 px;
+            float: right;
+            width: 100 % ;
+            padding: 3 px 1 px;
+            height: 30 px!important;
+        }
+        span.btn.fr.btn - success.fa.fa - refresh {
+            display: none;
+        }
+        div #tlogins::-webkit - scrollbar {
+            width: 0;height: 10 px
+        }
+        div #tlogins.fl.mini.u - msg {
+            margin - top: 3 px!important;
+            border - radius: 3 px!important
+        }
+        a.label.label - primary.fl img.fl,
+        button.btn.fr.btn - success.fa.fa - refresh,
+        div #l2 br,
+        div #l3 br {
+            display: none
+        }
+        a.label.label - primary.fl {
+            height: 26 px;border - radius: 3 px!important;margin: 2 px - 155 px;padding: 2 px!important;margin - bottom: 2 px;text - align: right!important
+        }
+        button.btn.fr.btn - success.fa.fa - refresh {
+            display: none
+        }
+        a.label.label - primary.fl img.fl {
+            display: none
+        }
+        #des22 {
+            text - align: center!important;
+            font - size: 100 % !important
+        }.fr.borderg,
+        .fr.borderg a {
+            font - size: 10 px!important;
+            padding: 0 5 px!important;
+            position: relative;
+            color: #fff
+        }.fr.borderg {
+            border: 0;margin - top: 0;height: 0
+        }
+        label.label.label - primary.mini.fl {
+            padding: 1 px;border - radius: 3 px!important
+        }
+        div #tlogins.fitimg.u - pic {
+            border - radius: 5 px;
+            border: 2 px solid #2c4666; width: 52px!important; box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 1px 8px # cbb0c8;
+            letter - spacing: 1 px;
+            background - size: 108 % 108 % ;
+        }
+        div #tlogins a.label.bg.d - flex.fl img.fl {
+            border - radius: 15 px!important;
+            margin - left: 40 px;
+            position: absolute;
+            margin - top: -1 px;
+        }
+        div #tlogins {
+            border - radius: 10 px;
+            box - shadow: inset 0 1 px 1 px rgb(0 0 0 / 8 % ), 0 1 px 8 px #e5c4e1;
+            border: 1 px solid white;
+            max - width: 394 px!important;
+        }
+        .bg.mini.fl {
+            border - radius: 15 px!important;
+            background - color: #2c4666; margin-bottom: 5px; } div# tlogins::-webkit - scrollbar - button {
+                width: 5 px;height: 5 px
+            }
+            div #tlogins::-webkit - scrollbar - thumb {
+                    background: 0 0;border: 71 px #fff;border - radius: 31 px;background - color: #2c4666; } div# tlogins::-webkit - scrollbar - thumb: active {
+                        background: 0 0
+                    }
+                    div #tlogins::-webkit - scrollbar - track {
+                        background: #fff;border: 65 px #fff;border - radius: 34 px
+                    }
+                    div #tlogins::-webkit - scrollbar - track: hover {
+                        background: 0 0
+                    }
+                    div #tlogins::-webkit - scrollbar - track: active {
+                        background: 0 0
+                    }
+                    div #tlogins::-webkit - scrollbar - corner {
+                        background: 0 0
+                    }
+                    div #tlogins.fl.mini.u - msg {
+                        margin - top: 3 px!important;
+                        border - radius: 3 px!important
+                    }
+                    div #tlogins.u - topic.dots {
+                        width: 800 px;
+                    }
+                    div #tlogins.fl.hand.nosel.uzr {
+                        border - radius: 5 px;
+                        margin - bottom: 2 px!important;
+                        box - shadow: inset 0 1 px 1 px rgb(0 0 0 / 8 % ), 0 1 px 8 px #e5c4e1;
+                        margin - top: 2 px!important;
+                        margin: 1 px 0 px;
+                    }
+                    utton.btn.fr.btn - success.fa.fa - refresh {
+                        display: none
+                    }.fl.ustat {
+                        border - radius: 15 px 0!important;
+                        width: 6 px!important;
+                        margin: 5 px
+                    }
+                    a.label.label - primary.fl {
+                        border - radius: 3 px!important;
+                        padding: 5 px!important;
+                        margin - bottom: 2 px;
+                        text - align: Center!important
+                    }
+                    #des22 {
+                        text - align: center!important;
+                        font - size: 100 % !important
+                    }
+                    fr.borderg,
+                    .fr.borderg a {
+                        font - size: 10 px!important;
+                        padding: 0 5 px!important;
+                        position: relative;
+                        color: #47749b} img.fitimg.fl.u-pic {width: auto!important;height: 57px!important;} 
+# des22 {
+                                text - align: center!important;
+                                font - size: 100 % !important
+                            }.fr.borderg, .fr.borderg a {
+                                font - size: 10 px!important;
+                                padding: 0 5 px!important;
+                                position: relative;
+                                color: #47749b
+                            }
+                            .light.fl.pro.center.break.fl.u - msg {
+                                width: 95 % !important;padding: 10 px!important;text - align: center!important;outline - offset: -6 px;border - radius: 5 px;border: 1 px solid #2c2c2c; box-shadow: 8px 3px 5px -3px # 000;margin - bottom: 30 px;margin - left: 7 px;overflow: auto;height: 79 px;background: #ebebeb87;margin - top: 10 px;font - size: 14 px!important;
+                            }
+                        label.fl.nosel.label.pnhead {
+                                padding: 2 px;border - radius: 59 px 0 68 px 0;width: 60 % ;margin - left: 10 px!important;background: linear - gradient(-45 deg, #cc31cc, pink, #ddcecd00, #5d7a9f); background-size: 400% 400%; height: 24px; }
+.fl.fa.fa-sign-in.btn.btn-primary.dots.roomh.border.corner{padding:1px 4px!important;pointer-events:none}
